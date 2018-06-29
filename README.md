@@ -2,4 +2,6 @@
 
 ### Back end set up complete. 
 
+### Client setup complete, implemented bootstrap and reactstrap.
+
 ## (Work in Progress)
