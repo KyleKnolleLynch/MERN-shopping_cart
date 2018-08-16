@@ -79,7 +79,10 @@ class ItemModal extends Component {
 }
 
 const mapStateToProps = state => ({
-    item: state.item
+  item: state.item
 });
 
-export default connect(mapStateToProps, { addItem })(ItemModal);
+export default connect(
+  mapStateToProps,
+  { addItem }
+)(ItemModal);
