@@ -1,11 +1,9 @@
 # Shopping cart built with the MERN stack
 
-* Back end set up complete. 
+### Other technologies used -
 
-* Client setup complete, implemented bootstrap and reactstrap.
+*  Redux
 
-* Finished Components
+*  Reactstrap
 
-* Implement Redux. Set up reducers and store. Made a modal.
-
-## (Work in Progress)
+*  React Transitions
