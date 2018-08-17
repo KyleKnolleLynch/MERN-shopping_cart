@@ -5,7 +5,7 @@ const items = require("./routes/api/items");
 
 const app = express();
 
-//  Parsing middleware that replaces body-parser
+// middleware that replaces body-parser
 app.use(express.json());
 
 //  DB config

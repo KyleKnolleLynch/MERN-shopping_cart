@@ -2,6 +2,8 @@
 
 ### Other technologies used -
 
+*  Mongoose
+
 *  Redux
 
 *  Reactstrap
